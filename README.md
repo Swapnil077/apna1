@@ -1,2 +1,2 @@
 # apna1
-author Swapnil Dube
+author Swapnil Dube  fron scoe
